@@ -1,6 +1,6 @@
-# Pygame Tic-Tac-Toe
+# Tic-Tac-Toe
 
- A classic two-player Tic-Tac-Toe game built with Python and Pygame.
+ Check this out! 👇 I leveraged Amazon Q CLI with a simple prompt to instantly generate a complete, classic two-player Tic-Tac-Toe game in Python using Pygame.
 
  ## Features
 
