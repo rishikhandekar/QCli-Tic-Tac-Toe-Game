@@ -20,8 +20,7 @@
 
  1. Clone this repository:
     ```
-    git clone https://github.com/username/tic-tac-toe.git
-    cd tic-tac-toe
+    git clone https://github.com/rishikhandekar/QCli-Tic-Tac-Toe-Game
     ```
 
  2. Install the required dependencies:
