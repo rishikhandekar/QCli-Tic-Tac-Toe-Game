@@ -36,7 +36,7 @@
 
  1. Run the game:
     ```
-    python tic_tac_toe.py
+    python3 tic_tac_toe.py
     ```
 
  2. Game Rules:
