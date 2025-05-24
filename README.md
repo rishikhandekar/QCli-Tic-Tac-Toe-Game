@@ -51,6 +51,11 @@
     - **R Key**: Reset the game at any time
     - **Play Again Button**: Appears after a game ends
 
+
+ ## Games Video
+
+ [I Build a Tic-Tac-Toe Game with Amazon Q CLI | Build Games with Amazon Q CLI](https://youtu.be/h6l0PJ-4-5M?si=lG_IMtyhVrGxo4u_&t=527)
+
  ## Code Structure
 
  The game is contained in a single Python file (`tic_tac_toe.py`) and uses the following components:
